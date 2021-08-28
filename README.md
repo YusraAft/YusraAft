@@ -7,7 +7,7 @@ to engage in more efficient programming.
 
 👯 I am eager to collaborate on projects and help ideas come to life.
 
-🤔 I am looking for help with learning more and am searching for internships and other opportunities.
+🤔 I am looking for help with learning more and am searching for full time opportunities in Frontend Software Engineering and UI/UX.
 
 💬 Ask me about my "out of the ordinary" ideas to transform technology
 
