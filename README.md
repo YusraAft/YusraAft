@@ -2,7 +2,7 @@
 🔭 I am currently working on becoming well equipped with the necessary skills and experience to advance my knowledge in the field of computer science.
 
 🌱 I am in my penultimate year of undergraduate study at Northwestern University majoring in Computer Science. 
-I have taken courses in C/C++ and Python and recently completed a Data Structures and Algorithms course
+I have taken courses in Python, web development and Java. I also have internship experience in Frontend work specifically with the React Framework.
 to engage in more efficient programming.
 
 👯 I am eager to collaborate on projects and help ideas come to life.
