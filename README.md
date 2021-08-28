@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I am currently working on becoming well equipped with the necessary skills and experience to advance my knowledge in the field of computer science.
 
-🌱 I am in my penultimate year of undergraduate study at Northwestern University majoring in Computer Science. 
+🌱 I am a computer science major at Northwestern University. 
 I have taken courses in Python, web development and Java. I also have internship experience in Frontend work specifically with the React Framework.
 
 
