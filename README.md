@@ -3,7 +3,7 @@
 
 🌱 I am in my penultimate year of undergraduate study at Northwestern University majoring in Computer Science. 
 I have taken courses in Python, web development and Java. I also have internship experience in Frontend work specifically with the React Framework.
-to engage in more efficient programming.
+
 
 👯 I am eager to collaborate on projects and help ideas come to life.
 
