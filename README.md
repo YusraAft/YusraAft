@@ -13,7 +13,7 @@ I have taken courses in Python, web development and Java. I also have internship
 
 📫 You can reach me at yusraaftab2023@u.northwestern.edu
 
-⚡ Fun fact: I am bilingual and am learning a third language because I love languages both human and computer :)
+⚡ Fun fact: I am bilingual and am learning a third language because I love languages :)
 
 😄 Pronouns: she/her/hers
 
