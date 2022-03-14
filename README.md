@@ -11,7 +11,7 @@ I have taken courses in Python, web development and more. I also have internship
 
 💬 Ask me about my "out of the ordinary" ideas to transform technology
 
-📫 You can reach me at yusraaftab2023@u.northwestern.edu
+
 
 ⚡ Fun fact: I am bilingual and am learning a third language because I love languages :)
 
